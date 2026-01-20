@@ -1,4 +1,4 @@
-public class LCM_Finding {
+public class LCM_Find {
     public static void main(String[] args) {
         int a=12,b=18;
         int n=a*b;
